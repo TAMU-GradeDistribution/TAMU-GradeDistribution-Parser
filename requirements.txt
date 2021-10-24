@@ -1,0 +1,5 @@
+numpy
+PyPDF2
+pymysql
+matplotlib
+alive_progress
