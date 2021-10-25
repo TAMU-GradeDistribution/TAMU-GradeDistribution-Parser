@@ -23,8 +23,6 @@ $ python3 -m pip install alive_progress
 ## Version 1.0 Roadmap:
 - [x] Grade report parsing
 - [x] Automatically add data to a SQL backend
-- [ ] Automated grade report updates
-- [ ] Duplicate data detection
 
 
 ## How to use:
