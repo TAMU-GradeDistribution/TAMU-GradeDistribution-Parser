@@ -2,13 +2,12 @@
 
 This project is dedicated to helping analyze the massive amounts of data released every semester by Texas A&M University's Registrar's office.
 
-Use [TAMU-GradeDistribution-ParserV2](https://github.com/TAMU-GradeDistribution/TAMU-GradeDistribution-ParserV2) instead, this version is deprecated.
+NOTE: Use [TAMU-GradeDistribution-ParserV2](https://github.com/TAMU-GradeDistribution/TAMU-GradeDistribution-ParserV2) instead, this version is deprecated.
 
 ---
 
 ## Dependencies:
 ```
-$ python3 -m pip install numpy
 $ python3 -m pip install PyPDF2
 $ python3 -m pip install pymysql
 $ python3 -m pip install matplotlib
