@@ -1,6 +1,8 @@
 # TAMU-GradeDistribution-Parser
 
-This project is dedicated to helping analyze the massive amounts of data released yearly by the TAMU registrar's office regarding the courses they offer.
+This project is dedicated to helping analyze the massive amounts of data released every semester by Texas A&M University's Registrar's office.
+
+Use [TAMU-GradeDistribution-ParserV2](https://github.com/TAMU-GradeDistribution/TAMU-GradeDistribution-ParserV2) instead, this version is deprecated.
 
 ---
 
@@ -51,8 +53,4 @@ $ python3 -m pip install alive_progress
     ```
     # automatically get and display newest logfile
     $ tail -f $(ls -t | head -1)
-    ``` 
-
-
-## Contributers:
-[adibarra](https://github.com/adibarra) & [thestarch2](https://github.com/thestarch2)
+    ```
